@@ -17,5 +17,3 @@ def print_receipt():
     HTML(string=html_template).write_pdf(
         target="receipt.pdf", stylesheets=[CSS(css_url)])
 
-
-print_receipt()
